@@ -28,11 +28,12 @@ human made mistakes.
 - Login/Signup User Account
 - Scan QR code
 - Track Order real-time
+- Search, Filter, Sort items
 - Admin see the real time notification
 - Add/Remove Items from Cart
 - Update Profile
 - server side Pagination 
-- My Orders
+- display Orders
 - rating and review
 - Admin: Dashboard access to only admin roles
 - Admin: Update Order Status 
@@ -44,6 +45,10 @@ human made mistakes.
  demo - 
  
  
+
+https://user-images.githubusercontent.com/87923470/218250681-2e792db8-d177-4b12-9ad5-d0dba9306822.mp4
+
+
  
 
 https://user-images.githubusercontent.com/87923470/208315676-44aeca08-efec-43e3-bc87-02de732a85ac.mp4
