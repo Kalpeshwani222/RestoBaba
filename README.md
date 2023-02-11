@@ -49,9 +49,5 @@ human made mistakes.
 https://user-images.githubusercontent.com/87923470/218250681-2e792db8-d177-4b12-9ad5-d0dba9306822.mp4
 
 
- 
-
-https://user-images.githubusercontent.com/87923470/208315676-44aeca08-efec-43e3-bc87-02de732a85ac.mp4
-
 
 
