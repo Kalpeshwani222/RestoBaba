@@ -61,16 +61,20 @@ human made mistakes.
    <td align="center"><img src="https://github.com/Kalpeshwani222/RestoBaba/assets/87923470/d6646c4c-8364-4e4d-af1d-0b20b83446f6" alt="order"></td>
    <tr>
     
- </tr>
+<!--  </tr>
     <td align="center"><img src="https://github.com/Kalpeshwani222/RestoBaba/assets/87923470/65748d5a-be8f-4c51-b2dd-8c847c19254d" alt="Desk main" 
      style="padding: 10px; margin:1rem;"
      ></td>
     <td align="center"><img src="https://github.com/Kalpeshwani222/RestoBaba/assets/87923470/1ecd3d83-8b4d-46f7-8291-7d22f59947fb" alt="Desk Cart"></td>
-  </tr>
+  </tr> -->
 </table>
 
+![Screenshot (397)](https://github.com/Kalpeshwani222/RestoBaba/assets/87923470/c5b6c36b-8012-48f2-a880-7e4c546ef670)
 
+ #### Admin -
+ 
+![Screenshot (394)](https://github.com/Kalpeshwani222/RestoBaba/assets/87923470/f2a86c6d-d995-4692-88f1-459471583ef2)
 
-<style>
+![Screenshot (395)](https://github.com/Kalpeshwani222/RestoBaba/assets/87923470/94c7146b-e656-4fc5-b733-ffc3eff100ee)
 
-</style>
+![Screenshot (396)](https://github.com/Kalpeshwani222/RestoBaba/assets/87923470/8fca6d99-b2ad-4816-85d9-0cc3748108c5)
