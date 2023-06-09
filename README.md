@@ -56,17 +56,12 @@ human made mistakes.
     <td align="center"><img src="https://github.com/Kalpeshwani222/RestoBaba/assets/87923470/7051bd9e-82e4-4a02-9761-ba42fb5cd839" alt="Home Page"></td>
     <td align="center"><img src="https://github.com/Kalpeshwani222/RestoBaba/assets/87923470/c8645cfa-bf0b-4c3f-b445-787065c36d54" alt="Image 2" ></td>
   </tr>
-  <tr>
+  <tr style="margin-top:2rem;">
     <td align="center"><img src="https://github.com/Kalpeshwani222/RestoBaba/assets/87923470/6b6480c2-d003-40ca-93d1-b6938f051eb2" alt="cart"></td>
    <td align="center"><img src="https://github.com/Kalpeshwani222/RestoBaba/assets/87923470/d6646c4c-8364-4e4d-af1d-0b20b83446f6" alt="order"></td>
    <tr>
     
-<!--  </tr>
-    <td align="center"><img src="https://github.com/Kalpeshwani222/RestoBaba/assets/87923470/65748d5a-be8f-4c51-b2dd-8c847c19254d" alt="Desk main" 
-     style="padding: 10px; margin:1rem;"
-     ></td>
-    <td align="center"><img src="https://github.com/Kalpeshwani222/RestoBaba/assets/87923470/1ecd3d83-8b4d-46f7-8291-7d22f59947fb" alt="Desk Cart"></td>
-  </tr> -->
+
 </table>
 
 ![Screenshot (397)](https://github.com/Kalpeshwani222/RestoBaba/assets/87923470/c5b6c36b-8012-48f2-a880-7e4c546ef670)
